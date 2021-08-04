@@ -1,5 +1,7 @@
 # Load environment variables GitHub Action
 
+:warning: **This project is DEPRECATED.** The action has been moved to [the keep-network/ci repository](https://github.com/keep-network/ci/tree/main/actions/load-env-variables)!
+
 This is a GitHub Action that adds the values from specified environment-specific
 config file to the list of GitHub environment variables. Config file must be
 stored in `keep-network/ci` repository under `./config/env/` directory.
